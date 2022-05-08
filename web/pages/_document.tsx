@@ -32,6 +32,10 @@ export default function Document() {
           `,
           }}
         />
+        <script
+          src="https://cdn.jsdelivr.net/npm/link-summoner@1.0.2/dist/browser.min.js"
+          type="module"
+        ></script>
       </Head>
 
       <body className="font-readex-pro bg-base-200 min-h-screen">
