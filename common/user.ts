@@ -33,4 +33,5 @@ export type PrivateUser = {
   unsubscribedFromGenericEmails?: boolean
   initialDeviceToken?: string
   initialIpAddress?: string
+  apiKey?: string
 }
